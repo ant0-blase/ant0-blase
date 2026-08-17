@@ -46,33 +46,3 @@ Outside of infrastructure work, I also spend time on **reverse engineering and c
 ### Development
 
 `Python` · `C/C++` · `TypeScript` · `React` · `NestJS`
-
----
-
-## 🚀 Selected Work
-
-### Infrastructure & Automation
-
-I work on tools and environments around:
-
-* Linux system deployment and configuration
-* Windows unattended installation
-* PXE / network deployment
-* Active Directory environments
-* Virtual machines and GPU passthrough
-* Docker-based services
-* Network lab automation
-* CI/CD pipelines
-* Self-hosted infrastructure
-
----
-
-## 📚 Currently Interested In
-
-* Linux system administration
-* Infrastructure automation
-* Networking
-* Virtualization
-* DevOps tooling
-* Performance optimization
-* Reverse engineering
