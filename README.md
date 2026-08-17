@@ -1,61 +1,107 @@
 # Anto B.
 
-Reverse engineering, console preservation, and systems work on Linux and Windows.
+### System & Network Administration · Linux · DevOps
 
-I spend most of my time taking apart software that was never meant to be taken
-apart — decompiling console games, reimplementing the hardware they ran on, and
-writing the tooling needed to make that tractable. The rest goes to Linux and
-Windows deployment automation.
+System and network administrator with a background in **IT infrastructure, Linux, networking, virtualization and deployment automation**.
+
+I enjoy building reliable systems, automating repetitive tasks and working close to the operating system — from Linux servers and networking to virtualization, containers and deployment tooling.
+
+Outside of infrastructure work, I also spend time on **reverse engineering and console preservation projects**.
 
 ---
 
-## Featured work
+## 👨‍💻 About Me
+
+* 🐧 Linux administration and automation
+* 🌐 Networking, routing, VLANs and VPNs
+* 🖥️ Windows / Active Directory environments
+* 📦 Containers and deployment workflows
+* ☁️ Infrastructure automation and DevOps
+* 🔧 Virtualization, homelab and self-hosted services
+
+---
+
+## 🛠️ Skills
+
+### Systems
+
+`Linux` · `Arch Linux` · `Windows Server` · `Active Directory` · `Bash` · `PowerShell`
+
+### Networking
+
+`TCP/IP` · `VLAN` · `Routing` · `VPN` · `Cisco IOS` · `OpenWRT`
+
+### Virtualization & Cloud
+
+`Proxmox` · `QEMU/KVM` · `VMware` · `Hyper-V` · `Docker`
+
+### Automation & DevOps
+
+`Ansible` · `Terraform` · `Git` · `CI/CD` · `Docker Compose`
+
+### Deployment
+
+`PXE` · `MDT` · `FOG` · `WIM` · `VHD` · `Unattended Installations`
+
+### Development
+
+`Python` · `C/C++` · `TypeScript` · `React` · `NestJS`
+
+---
+
+## 🚀 Selected Work
+
+### Infrastructure & Automation
+
+I work on tools and environments around:
+
+* Linux system deployment and configuration
+* Windows unattended installation
+* PXE / network deployment
+* Active Directory environments
+* Virtual machines and GPU passthrough
+* Docker-based services
+* Network lab automation
+* CI/CD pipelines
+* Self-hosted infrastructure
+
+---
+
+## 🎮 Personal Projects
+
+In my free time, I experiment with **reverse engineering, static recompilation and game preservation**.
 
 ### [MOHFrontline-PS2Recomp](https://github.com/ant0-blase/MOHFrontline-PS2Recomp)
 
-A native PC port of **Medal of Honor: Frontline** (PlayStation 2) built by
-*static recompilation* rather than emulation: the game's MIPS R5900 code is
-translated ahead of time into C++, compiled into an ordinary executable, and run
-against a hand-written implementation of the PS2 hardware it talks to.
+Native PC recompilation research for **Medal of Honor: Frontline** on PlayStation 2.
 
-The port boots cold, plays its intro, reaches the menus and loads a mission. The
-hardware layer — VU0/VU1 microprogram interpreters, a software Graphics
-Synthesizer, VIF1, the DMA tag walker and IOP HLE — is around 95 000 lines of
-C++.
+`C++` · `MIPS R5900` · `PS2` · `Reverse Engineering`
 
-`C++` · `MIPS R5900` · `VU microcode` · `Graphics Synthesizer`
+### HPCOS-GC-RECOMP
 
-### [goldeneye-rag-decomp](https://github.com/ant0-blase/goldeneye-rag-decomp)
+GameCube static recompilation research for **Harry Potter and the Chamber of Secrets**.
 
-A byte-identical decompilation of **GoldenEye: Rogue Agent** (GameCube, `GOYE69`),
-rebuilding the original binary exactly while progressively replacing assembly
-with matching C/C++. Coverage is tracked against a real code-bytes metric rather
-than a file count.
+`C++` · `PowerPC` · `GameCube` · `ModernGekko`
 
-`PowerPC` · `C/C++` · `matching decompilation`
+### ANIMANIACS-GC-RECOMP
+
+Static recompilation and runtime performance research for **Animaniacs: The Great Edgar Hunt**.
+
+`C++` · `PowerPC` · `GameCube` · `Performance Profiling`
+
 
 ---
 
-## What I work on
+## 📚 Currently Interested In
 
-**Reverse engineering & preservation** — decompilation, static recompilation,
-file-format research, hardware behaviour reimplementation. Both projects above
-ship tooling only: they require a copy of the game you own.
-
-**Linux** — Arch installation and tuning automation, VFIO/GPU passthrough on
-muxless laptops, kernel builds, GNS3 lab provisioning.
-
-**Windows deployment** — unattended installation, OOBE automation, WIM/VHD
-imaging, BCD and boot repair, ISO preparation.
-
-**Infrastructure** — CI/CD pipelines, containerised services, self-hosted
-tooling.
+* Linux system administration
+* Infrastructure automation
+* Networking
+* Virtualization
+* DevOps tooling
+* Performance optimization
+* Reverse engineering
 
 ---
 
-## Notes on the repositories here
-
-Most of what I publish is working tooling rather than finished products, and the
-titles say so — several are explicitly marked work-in-progress. Anything that
-touches a commercial game ships no game code and no assets: you supply your own
-copy, and the tooling regenerates what it needs locally.
+> Building, automating and understanding systems — from infrastructure down to the machine code.
