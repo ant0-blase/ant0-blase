@@ -67,31 +67,6 @@ I work on tools and environments around:
 
 ---
 
-## 🎮 Personal Projects
-
-In my free time, I experiment with **reverse engineering, static recompilation and game preservation**.
-
-### [MOHFrontline-PS2Recomp](https://github.com/ant0-blase/MOHFrontline-PS2Recomp)
-
-Native PC recompilation research for **Medal of Honor: Frontline** on PlayStation 2.
-
-`C++` · `MIPS R5900` · `PS2` · `Reverse Engineering`
-
-### HPCOS-GC-RECOMP
-
-GameCube static recompilation research for **Harry Potter and the Chamber of Secrets**.
-
-`C++` · `PowerPC` · `GameCube` · `ModernGekko`
-
-### ANIMANIACS-GC-RECOMP
-
-Static recompilation and runtime performance research for **Animaniacs: The Great Edgar Hunt**.
-
-`C++` · `PowerPC` · `GameCube` · `Performance Profiling`
-
-
----
-
 ## 📚 Currently Interested In
 
 * Linux system administration
@@ -101,7 +76,3 @@ Static recompilation and runtime performance research for **Animaniacs: The Grea
 * DevOps tooling
 * Performance optimization
 * Reverse engineering
-
----
-
-> Building, automating and understanding systems — from infrastructure down to the machine code.
