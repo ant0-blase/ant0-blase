@@ -2,6 +2,8 @@
 
 # Bastian J.
 
+<sub>愛 · 👔 · 賢</sub>
+
 ### SYSTEMS & NETWORK ADMINISTRATION
 **Linux · Infrastructure · Networking · Reverse Engineering**
 
@@ -14,6 +16,12 @@
 </p>
 
 [GitHub](https://github.com/ant0-blase) · [Repositories](https://github.com/ant0-blase?tab=repositories)
+
+<details>
+  <summary><code>Hello there.</code></summary>
+  <br />
+  <strong>General Kenobi.</strong>
+</details>
 
 </div>
 
@@ -75,6 +83,8 @@ Native recompilation and console preservation project focused on GameCube, Wii a
 
 <div align="center">
 
-*Building, understanding and preserving technology.*
+*Breaking things carefully. Fixing them properly.*
+
+<sub>愛 · 👔 · 賢</sub>
 
 </div>
